@@ -1,0 +1,20 @@
+<!doctype html>
+<!--
+  Tina Cloud's "Edit with TinaCMS" button opens <site>/admin. The editor lives at /editor/
+  (tina/config.ts, build.outputFolder), so this page forwards there, keeping any #/ editor path.
+-->
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="noindex, nofollow">
+    <meta http-equiv="refresh" content="0; url=/editor/">
+    <title>Content editor</title>
+    <script>
+      location.replace("/editor/" + location.hash);
+    </script>
+  </head>
+  <body>
+    <p><a href="/editor/">Open the content editor</a></p>
+  </body>
+</html>

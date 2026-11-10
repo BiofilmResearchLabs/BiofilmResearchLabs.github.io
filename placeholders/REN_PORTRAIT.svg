@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1250" viewBox="0 0 1000 1250" role="img" aria-labelledby="title desc">
+  <title id="title">REN_PORTRAIT placeholder</title>
+  <desc id="desc">Neutral portrait-format placeholder. Not a portrait or scientific data.</desc>
+  <rect width="1000" height="1250" fill="#f1f0ec"/>
+  <rect x="1" y="1" width="998" height="1248" fill="none" stroke="#c5c3bc" stroke-width="2"/>
+  <text x="70" y="610" font-family="Arial, sans-serif" font-size="38" fill="#77736b">REN_PORTRAIT</text>
+  <text x="70" y="665" font-family="Arial, sans-serif" font-size="22" fill="#9a968e">PLACEHOLDER · NOT A PORTRAIT</text>
+</svg>

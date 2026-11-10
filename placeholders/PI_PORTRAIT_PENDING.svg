@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" role="img" aria-label="Portrait pending human approval">
+  <rect width="800" height="1000" fill="#d8d7d0"/>
+  <circle cx="400" cy="360" r="132" fill="#b9b8b0"/>
+  <path d="M190 840c25-190 125-285 210-285s185 95 210 285" fill="#b9b8b0"/>
+  <path d="M0 900h800v100H0z" fill="#c8c7bf"/>
+</svg>

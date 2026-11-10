@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="800" viewBox="0 0 600 800" role="img" aria-labelledby="title desc">
+  <title id="title">CURRENT_MEMBER_02 placeholder</title>
+  <desc id="desc">Neutral portrait placeholder. Not a real portrait.</desc>
+  <rect width="600" height="800" fill="#f1f0ec"/><rect x="1" y="1" width="598" height="798" fill="none" stroke="#c5c3bc" stroke-width="2"/>
+  <text x="34" y="390" font-family="Arial, sans-serif" font-size="28" fill="#77736b">CURRENT_MEMBER_02</text><text x="34" y="430" font-family="Arial, sans-serif" font-size="18" fill="#9a968e">PLACEHOLDER · NOT A PORTRAIT</text>
+</svg>

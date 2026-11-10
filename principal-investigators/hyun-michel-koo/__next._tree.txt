@@ -1,0 +1,10 @@
+:HL["/_next/static/media/1f3d8257242424a4-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["/_next/static/media/20a05f5aae65a4b2-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["/_next/static/media/59e0f029346a4bbf-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["/_next/static/media/9cff43c0289b6033-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["/_next/static/media/b87e65b156550dad-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["/_next/static/media/e050b23211928a88-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["/_next/static/media/fde819d3de6ab855-s.p.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
+:HL["/_next/static/css/3da4859c31819d6f.css","style"]
+:HL["/_next/static/css/bb67af46d5ed5e46.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"(site)","param":null,"prefetchHints":4208,"slots":{"children":{"name":"principal-investigators","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"d","key":"hyun-michel-koo","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"NcFr__GeeHh50pcarECd7"}
